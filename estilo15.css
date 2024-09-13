@@ -1,0 +1,17 @@
+body {
+    color: black;
+    background-color: rgb(243, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listaItens {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    .corItens {
+        color:black;
+    }
+}
+a {
+   text-decoration: none;
+}
